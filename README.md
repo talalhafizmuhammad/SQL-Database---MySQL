@@ -5,7 +5,7 @@ The queries are based on my learning journey and cover a wide range of SQL featu
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 1. **Setup & Installation** – Installing MySQL and setting up the environment  
 2. **Database Operations** – `CREATE DATABASE`, `DROP DATABASE`, `USE`  
@@ -23,7 +23,7 @@ The queries are based on my learning journey and cover a wide range of SQL featu
 
 
 
-## 🚀 MySQL Installation
+## MySQL Installation
 
 ### Windows
 1. Download MySQL Community Server from: https://dev.mysql.com/downloads/mysql/
